@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alae-herrak
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: socials @alaeherrak
 
